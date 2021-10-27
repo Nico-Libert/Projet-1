@@ -1,0 +1,79 @@
+[{
+    "name" : "Gorille",
+    "rang" : "Chef",
+    "minProba" : 50,
+    "maxProba" : 80
+},
+{
+    "name" : "Macaque",
+    "rang" : "Singe",
+    "minProba" : 10,
+    "maxProba" : 70
+},
+{
+    "name" : "Gibbon",
+    "rang" : "Singe",
+    "minProba" : 10,
+    "maxProba" : 70
+
+},
+{
+    "name" : "Oran-Outang",
+    "rang" : "Singe",
+    "minProba" : 10,
+    "maxProba" : 70
+
+},
+{
+    "name" : "Chimpanzé",
+    "rang" : "Singe",
+    "minProba" : 10,
+    "maxProba" : 70
+
+},
+{
+    "name" : "Bonobo",
+    "rang" : "Singe",
+    "minProba" : 10,
+    "maxProba" : 70
+
+},
+{
+    "name" : "Ouistiti",
+    "rang" : "Singe",
+    "minProba" : 10,
+    "maxProba" : 70
+
+},
+{
+    "name" : "Tamarin",
+    "rang" : "Singe",
+    "minProba" : 10,
+    "maxProba" : 70
+
+},
+{
+    "name" : "Capucin",
+    "rang" : "Singe",
+    "minProba" : 10,
+    "maxProba" : 70
+
+},
+{
+    "name" : "Babouin",
+    "rang" : "Singe",
+    "minProba" : 10,
+    "maxProba" : 70
+
+},
+{
+    "name" : "Joueur",
+    "rang" : "Player",
+    "minProba" : 80,
+    "maxProba" : 90
+}
+]
+
+
+
+
