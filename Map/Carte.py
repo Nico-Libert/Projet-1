@@ -72,6 +72,7 @@ def loadFromJson():
 
     Var.carte = [Var.L1,Var.L2,Var.L3,Var.L4,Var.L5,Var.L6,Var.L7,Var.L8,Var.L9,Var.L10,Var.L11,Var.L12,Var.L13,Var.L14,Var.L15,Var.L16,Var.L17,Var.L18,Var.L19,Var.L20,Var.L21,Var.L22,Var.L23,Var.L24,Var.L25,Var.L26,Var.L27,Var.L28,Var.L29,Var.L30]
 
+# création de la carte avec tout les éléments (par lignes et par lettres)
 
 def draw() :
 

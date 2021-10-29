@@ -1,6 +1,7 @@
 # coding: utf-8
 
-# imports
+# données de la carte
+
 carte = ""
 L1 = ""
 L2 = ""
@@ -33,6 +34,8 @@ L28 = ""
 L29 = ""
 L30 = ""
 
+# mouvements possibles
+
 possibleMove = {
                 "HAUT" : { "lineY" : -1, "letterX": 0}, 
                 "BAS" : { "lineY" : +1, "letterX" : 0}, 
@@ -41,14 +44,22 @@ possibleMove = {
                 "QUITTER" : { "lineY" : 0, "letterX" : 0}
 }
 
-keys = 3
+# clé pour le sphynx
+keys = 0
+
+# nom du joueur demandé au début du jeu
 playerName = ""
 
+# lancement du jeu
 game = True
+
 nombreMystère = None
 
+# données pour l'affichage du joueurs, des quêtes et du texte
 dataPlayer = None
 dataMystère = None
 dataCésar = None
 dataFizzbuzz = None
 dataSphynx = None
+
+texte = ""
