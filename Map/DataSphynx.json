@@ -1,0 +1,9 @@
+{
+    "name" : "Sphynx",
+    "Icone" : "$",
+    "Y" : 5,              
+    "X" : 36,   
+    "lastPosition" : "",
+    "Foreground" : "YELLOW",
+    "Background" : ""
+}   

@@ -1,73 +1,73 @@
 [{
-    "name" : "Gorille",
+    "name" : "Le Chef Gorille",
     "rang" : "Chef",
     "minProba" : 50,
     "maxProba" : 80
 },
 {
-    "name" : "Macaque",
+    "name" : "Le Macaque",
     "rang" : "Singe",
     "minProba" : 10,
     "maxProba" : 70
 },
 {
-    "name" : "Gibbon",
-    "rang" : "Singe",
-    "minProba" : 10,
-    "maxProba" : 70
-
-},
-{
-    "name" : "Oran-Outang",
+    "name" : "Le Gibbon",
     "rang" : "Singe",
     "minProba" : 10,
     "maxProba" : 70
 
 },
 {
-    "name" : "Chimpanzé",
+    "name" : "L'Oran-Outang",
     "rang" : "Singe",
     "minProba" : 10,
     "maxProba" : 70
 
 },
 {
-    "name" : "Bonobo",
+    "name" : "Le Chimpanzé",
     "rang" : "Singe",
     "minProba" : 10,
     "maxProba" : 70
 
 },
 {
-    "name" : "Ouistiti",
+    "name" : "Le Bonobo",
     "rang" : "Singe",
     "minProba" : 10,
     "maxProba" : 70
 
 },
 {
-    "name" : "Tamarin",
+    "name" : "Le Ouistiti",
     "rang" : "Singe",
     "minProba" : 10,
     "maxProba" : 70
 
 },
 {
-    "name" : "Capucin",
+    "name" : "Le Tamarin",
     "rang" : "Singe",
     "minProba" : 10,
     "maxProba" : 70
 
 },
 {
-    "name" : "Babouin",
+    "name" : "Le Capucin",
     "rang" : "Singe",
     "minProba" : 10,
     "maxProba" : 70
 
 },
 {
-    "name" : "Joueur",
+    "name" : "Le Babouin",
+    "rang" : "Singe",
+    "minProba" : 10,
+    "maxProba" : 70
+
+},
+{
+    "name" : "Toi",
     "rang" : "Player",
     "minProba" : 80,
     "maxProba" : 90

@@ -1,0 +1,56 @@
+{ 
+    "s":{
+        "name" : "sable",
+        "symbol" : "░░",
+        "canWalk": "True",
+        "Foreground" : "",
+        "Background" : "YELLOW"
+},
+    "p" :{
+        "name" : "plaine",
+        "symbol" : " ",
+        "canWalk": "True",
+        "Foreground" : "",
+        "Background" : "GREEN"
+},
+    "j" :{
+        "name" : "jungle",
+        "symbol" : "ϡ ",
+        "canWalk": "True",
+        "Foreground" : "",
+        "Background" : "GREEN"
+},
+    "r" :{
+        "name" : "rocher",
+        "symbol" : "▒▒",
+        "canWalk": "False",
+        "Foreground" : "",
+        "Background" : "BLACK"
+},
+    "e" :{
+        "name" : "eau",
+        "symbol" : "▒▒",
+        "canWalk": "True",
+        "Foreground" : "",
+        "Background" : "CYAN"
+},
+    "m" :{
+        "name" : "mer",
+        "symbol" : " ~",
+        "canWalk": "False",
+        "Foreground" : "",
+        "Background" : "BLUE"
+},
+    "q" :{
+        "name" : "quete",
+        "symbol" : "ЖЖ",
+        "canWalk": "True",
+        "Foreground" : "RED",
+        "Background" : ""
+}
+}
+
+
+
+
+
